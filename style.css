@@ -1,0 +1,281 @@
+img {
+background-color:LightPink;
+}
+
+
+
+/*This makes everything on the website become go to the centre.  */
+body{
+  text-align: center;
+  background-color:LightPink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 5.625REM;
+  margin-top: 50px;
+  position: relative;
+  color: #646ecb;
+  line-height: 2.5;
+
+}
+
+p{
+line-height: 2.5;
+
+}
+
+
+h2{
+    color: #646ecb;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h3{
+color: #35013f;
+font-family: 'Orbitron', sans-serif;
+
+}
+
+a{
+  color: #360982;
+  text-decoration: none;
+  font-family: 'Russo One', sans-serif;
+  margin: 10px;
+}
+
+
+a:hover{
+  text-decoration: underline;
+}
+
+
+
+
+.skill-row1{
+  width:50%;
+  margin: 0 auto;
+  line-height: 100px;
+}
+
+.staricon{
+  width: 50px;
+  float: right;
+}
+
+
+
+
+
+
+
+.skill-row2{
+  width:50%;
+  margin: 0 auto;
+  line-height: 100px;
+}
+
+
+.manicon{
+  width: 50px;
+float: right;
+}
+
+
+.contact-me
+{
+  margin: 50px 0;
+}
+
+
+
+
+
+
+
+
+.mountain{
+background-color:LightPink;
+}
+
+
+
+
+
+.walkingicon{
+  width: 50px;
+  float: left;
+}
+
+
+.cloud1{
+margin-left:500px;
+}
+
+
+.cloud2{
+position:absolute;
+
+margin-left:50px;
+margin-Top:100px;
+}
+
+
+hr{
+
+  margin: 100px auto;
+  /*
+  border: 6px dotted #152744;
+  */
+  border-bottom: 6px;
+  width:4%;
+}
+
+
+footer{
+
+  background-color: #6356e5;
+}
+
+
+
+
+
+
+
+
+
+
+.butn {
+  background: #aa34d9;
+  background-image: -webkit-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: -moz-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: -ms-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: -o-linear-gradient(top, #aa34d9, #2980b9);
+  background-image: linear-gradient(to bottom, #aa34d9, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  margin: 300px 0;
+  position: relative;
+  font-family: Courier New;
+  color: #c795c7;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #2980b9;
+  background-image: -webkit-linear-gradient(top, #2980b9, #aa34d9);
+  background-image: -moz-linear-gradient(top, #2980b9, #aa34d9);
+  background-image: -ms-linear-gradient(top, #2980b9, #aa34d9);
+  background-image: -o-linear-gradient(top, #2980b9, #aa34d9);
+  background-image: linear-gradient(to bottom, #2980b9, #aa34d9);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.Top{
+background-color:#ca5fa6;
+height: 100px;
+width: 100px;
+margin-left: 200px;
+
+border-style: dashed;
+border-width: 2px;
+border-color: #ffa1c5;
+
+
+}
+*/
+
+
+/*
+.div2{
+background-color:#f36886;
+height: 100px;
+width: 100px;
+padding: 10px;
+margin-left:30%;
+
+border-style: dashed;
+border-width: 2px;
+border-color: #ffa1c5;
+
+
+}
+
+*/
+
+
+
+/*
+
+.Middle{
+background-color:#fa8282;
+height: 100px;
+width: 100px;
+margin-left: 200px;
+
+border-style: dashed;
+border-width: 2px;
+border-color: #ffa1c5;
+
+
+}
+
+.Bottom{
+background-color:#ffaf65;
+height: 100px;
+width: 100px;
+margin-left:200px;
+
+border-style: dashed;
+border-width: 2px;
+border-color: #ffa1c5;
+
+}
+
+
+*/
